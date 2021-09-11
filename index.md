@@ -1,7 +1,7 @@
 # Welcome to Timothy Brown's Python Projects
 
 ### Python Projects <br>
-**[Python Projects](https://brownt47.github.io/Python_Projects/)**
+
 
 **[Overloaded Faculty Report](https://github.com/brownt47/Python_Projects/blob/main/Faculty_Overloads.ipynb)**
 
@@ -12,4 +12,4 @@
 
 List of courses and instructors
 
-**[Back to main page](**[Python Projects](https://brownt47.github.io/)
+**[Back to main page](https://brownt47.github.io/)
